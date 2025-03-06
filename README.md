@@ -1,4 +1,4 @@
-# Hi there, I'm Sara Baltz! 😄
+# Hello there, I'm Sara Baltz! 😄
 
 I'm a software engineer & former clinical researcher with a proven aptitude for teamwork & problem solving. I am eager to leverage my driven, detail-oriented mindset & passion for continuous learning to build robust & user-friendly applications, contribute to innovative teams, and deliver high-quality, impactful software solutions that enhance user experiences.
 
@@ -53,3 +53,19 @@ RyoKanvas is a booking application that allows users to reserve spots. Users can
 | [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)|[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/) [![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)|[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)|
 
 [More details and setup instructions](https://github.com/fayfan/RyoKanvas/blob/main/README.md)
+
+### SaraBaltz.com
+
+SaraBaltz.com is a website for showcasing my skills & projects as a full-stack software engineer. It's designed to provide a clear & concise overview of my experience, abilities, & passion for software development.
+
+**[🔭 Visit SaraBaltz.com](https://sarabaltz.com/)**
+
+![SaraBaltz.com](https://github.com/user-attachments/assets/c7e19598-14b8-4f9c-8e7e-6ad0c8b3770a)
+
+**Technologies Used:**
+
+| Frontend                                         |
+|--------------------------------------------------|
+| [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/) |
+
+[More details and setup instructions](https://github.com/fayfan/SaraBaltz.com/blob/main/README.md)
