@@ -6,11 +6,11 @@ I'm a software engineer & former clinical researcher with a proven aptitude for 
 
 Here are some of the projects I've worked on:
 
-### Arkbites
+### 👾 Arkbites
 
 Arkbites is a website with tools for helping players of the mobile game Arknights. Players can create an account to track their operators & materials, make squads with their operators, & favorite their operators.
 
-**[🔭 Visit Arkbites](https://arkbites.com/)**
+**[Visit Arkbites](https://arkbites.com/)**
 
 ![Arkbites](https://github.com/user-attachments/assets/e424bbea-56b5-433f-988b-a8e699fa93a6)
 
@@ -22,11 +22,11 @@ Arkbites is a website with tools for helping players of the mobile game Arknight
 
 [More details and setup instructions](https://github.com/fayfan/Arkbites/blob/main/README.md)
 
-### Museic
+### 🎵 Museic
 
 Museic is a music service that allows users to upload their own songs, put their songs into albums, & create playlists.
 
-**[🔭 Visit Museic](https://mod6-project.onrender.com/)**
+**[Visit Museic](https://mod6-project.onrender.com/)**
 
 ![Museic](https://github.com/user-attachments/assets/5b133201-db60-46a8-abb9-e61635b00b6a)
 
@@ -38,11 +38,11 @@ Museic is a music service that allows users to upload their own songs, put their
 
 [More details and setup instructions](https://github.com/fayfan/Museic/blob/main/README.md)
 
-### RyoKanvas
+### 🏯 RyoKanvas
 
 RyoKanvas is a booking application that allows users to reserve spots. Users can leave a review on any spot they have previously visited. Users can also create their own spots for other users to reserve.
 
-**[🔭 Visit RyoKanvas](https://ryokanvas.onrender.com/)**
+**[Visit RyoKanvas](https://ryokanvas.onrender.com/)**
 
 ![RyoKanvas](https://github.com/user-attachments/assets/e7d6499f-4447-4e09-be77-08dd24679dfd)
 
@@ -54,11 +54,11 @@ RyoKanvas is a booking application that allows users to reserve spots. Users can
 
 [More details and setup instructions](https://github.com/fayfan/RyoKanvas/blob/main/README.md)
 
-### SaraBaltz.com
+### 👩🏻‍💻 SaraBaltz.com
 
 SaraBaltz.com is a website for showcasing my skills & projects as a full-stack software engineer. It's designed to provide a clear & concise overview of my experience, abilities, & passion for software development.
 
-**[🔭 Visit SaraBaltz.com](https://sarabaltz.com/)**
+**[Visit SaraBaltz.com](https://sarabaltz.com/)**
 
 ![SaraBaltz.com](https://github.com/user-attachments/assets/c7e19598-14b8-4f9c-8e7e-6ad0c8b3770a)
 
